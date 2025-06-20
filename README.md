@@ -1,17 +1,3 @@
-
-
-
-![Screenshot from 2025-06-19 11-34-16](https://github.com/user-attachments/assets/55632c03-afb6-4adf-9208-664da0f5af17)
-
-
-
-
-
-
-
-
-
-
 # Jenkins-Pipeline
 
 # Vcube Task

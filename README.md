@@ -1,5 +1,13 @@
 # Jenkins-Pipeline
-``` apt update -y ```
+
+
+
+![Uploading Screenshot from 2025-06-20 11-57-33.png…]()
+
+
+
+
+
 
 
 

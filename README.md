@@ -1,18 +1,18 @@
+
+
+
+![Screenshot from 2025-06-19 11-34-16](https://github.com/user-attachments/assets/55632c03-afb6-4adf-9208-664da0f5af17)
+
+
+
+
+
+
+
+
+
+
 # Jenkins-Pipeline
-
-
-
-![Uploading Screenshot from 2025-06-20 11-57-33.png…]()
-
-
-
-
-
-
-
-
-
-
 
 # Vcube Task
 - Name:Pasupuleti Shyamsrikar
@@ -168,6 +168,11 @@ pipeline {
 ![Screenshot 2024-08-10 212440](https://github.com/user-attachments/assets/796b264f-70ef-4aa7-bb53-811ec302b5e9)
 ![Screenshot 2024-08-10 213443](https://github.com/user-attachments/assets/49feec43-126b-4b26-96b2-a498e916afdc)
 ![Screenshot 2024-08-10 213252](https://github.com/user-attachments/assets/70c946e6-4619-47cd-8d06-acd78e8a44ac)
+
+
+
+
+
 
 
 
